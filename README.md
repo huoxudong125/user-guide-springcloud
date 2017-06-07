@@ -55,6 +55,8 @@
    export MONGODB_PASSWORD=root         ## 必填，其他变量可不设置
    ```
 
+  [spring-cloud-config](https://cloud.spring.io/spring-cloud-config/spring-cloud-config.html)
+
 4. 使用[docker-compose](https://docs.docker.com/compose/install/)运行如下命令（[docker-compose.yml](https://github.com/cloudframeworks-springcloud/PiggyMetrics/blob/master/docker-compose.yml)）（或查看[通过脚本分别部署每个组件](https://github.com/cloudframeworks-springcloud/user-guide-springcloud/blob/master/READMORE/deploy%20via%20script.md)）
 
    ```
